@@ -2,7 +2,9 @@
 
 OpenClassrooms - Data analyst V1
 ----
-
+- [Etude de santé publique  / Public health survey](https://github.com/mako666-star/Etude-de-sante-publique)
+- [Analyser les ventes d'une entreprise / Analyse company sales](https://github.com/mako666-star/Analyser-les-ventes-d-une-entreprise)
+-
 
 ----
 The Hacking Project - Developpement Web Fullstack

@@ -2,9 +2,13 @@
 
 OpenClassrooms - Data analyst V1
 ----
+- []()
 - [Etude de santé publique  / Public health survey](https://github.com/mako666-star/Etude-de-sante-publique)
-- [Analyser les ventes d'une entreprise / Analyse company sales](https://github.com/mako666-star/Analyser-les-ventes-d-une-entreprise)
--
+- [Analyser les ventes d'une entreprise / Company sales analysis](https://github.com/mako666-star/Analyser-les-ventes-d-une-entreprise)
+- [Etude de marché / Market survey](https://github.com/mako666-star/Etude-de-marche)
+- [Détectez des faux billets / Detect falses notes](https://github.com/mako666-star/Detectez-des-faux-billets)
+- [Prédiction de revenu / Income projection](https://github.com/mako666-star/Prediction-de-revenu)
+- [Prédiction de la demande en électricité / Electricity demand forecast](https://github.com/mako666-star/Predire-la-demande-en-electricite)
 
 ----
 The Hacking Project - Developpement Web Fullstack
